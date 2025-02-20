@@ -49,7 +49,7 @@ function Home() {
     <img 
           src={Orange}
           alt="Curved underline" 
-          className="absolute right-1/2 md:right-[30px] top-[240px] -translate-x-1/2 w-[180px] md:w-[370px]" 
+          className="absolute right-1/2 md:right-[30px] top-[220px] -translate-x-1/2 w-[180px] md:w-[370px]" 
         />
     <p className="mt-6 sm:px-11 px-2 text-sm sm:text-base  md:text-lg lg:text-xl max-w-4xl">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor praesent non 
